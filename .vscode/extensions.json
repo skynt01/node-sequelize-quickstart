@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "HookyQR.beautify",
+        "alefragnani.Bookmarks",
+        "CoenraadS.bracket-pair-colorizer",
+        "streetsidesoftware.code-spell-checker",
+        "eamodio.gitlens",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "vscode-icons-team.vscode-icons",
+        "EditorConfig.EditorConfig",
+        "jawandarajbir.react-vscode-extension-pack",
+    ]
+}
